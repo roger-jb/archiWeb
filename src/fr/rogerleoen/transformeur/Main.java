@@ -1,4 +1,4 @@
-package fr.rogerleoen;
+package fr.rogerleoen.transformeur;
 
 public class Main {
     public static void main(String[] args) {
